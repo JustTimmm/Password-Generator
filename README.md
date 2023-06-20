@@ -6,7 +6,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://https://github.com/TarzaxDev/Password-Generator.git
+git clone https://github.com/TarzaxDev/Password-Generator.git
 ```
 
 2. Run the script
